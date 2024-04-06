@@ -1,4 +1,4 @@
-# Pagalpanti
+# Pagalpanti🤪
 
 Pagalpanti is a simple toy programming language implemented in JavaScript. 
 
@@ -12,7 +12,7 @@ Pagalpanti is a simple toy programming language implemented in JavaScript.
 
 ## Live Demo
 
-Try out Pagalpanti with our live demo: [Pagalpanti](https://pagalpantionhai.netlify.app/)
+📌Try out Pagalpanti with our live demo: [Pagalpanti](https://pagalpantionhai.netlify.app/)
 
 ## Getting Started
 
