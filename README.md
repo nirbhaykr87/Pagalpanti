@@ -1,4 +1,4 @@
-# Pagalpanti🤪  [Pagalpanti](https://pagalpantionhai.netlify.app/)
+# Pagalpanti🤪  [Live demo](https://pagalpantionhai.netlify.app/)
 
 Pagalpanti is a simple toy programming language implemented in JavaScript. 
 
