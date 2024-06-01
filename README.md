@@ -75,4 +75,7 @@ likho product;
 
 ---
 
+![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
+
 Happy Coding! 🎉
