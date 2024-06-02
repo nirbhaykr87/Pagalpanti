@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/logo11.png" alt="Pagalpanti Logo" width="600">
+  <img src="public/images/logo11.png" alt="Pagalpanti Logo" width="500">
 </p>
 
 # Pagalpanti🤪  [Live demo](https://pagalpantionhai.netlify.app/)
