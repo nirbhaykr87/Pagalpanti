@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/images/logo11.png" alt="Pagalpanti Logo" width="600">
+</p>
+
 # Pagalpanti🤪  [Live demo](https://pagalpantionhai.netlify.app/)
 
 Pagalpanti is a simple toy programming language implemented in JavaScript. 
