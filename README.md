@@ -27,7 +27,7 @@ To run Pagalpanti programs, you need:
 
 ## Usage
 - Use the maan lo keyword to declare and initialize variables.
-- 
+  
 
 **Syntax:**:
 ```plaintext
