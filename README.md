@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="public/images/logo11.png" alt="Pagalpanti Logo" width="500">
+</p>
+
 # Pagalpanti🤪  [Live demo](https://pagalpantionhai.netlify.app/)
 
 Pagalpanti is a simple toy programming language implemented in JavaScript. 
 
-## Features
+## 🚀 Features 
 
 - **Variable Declaration:** Declare and initialize variables.
 - **Print Statement:** Display output to the console.
@@ -10,11 +14,11 @@ Pagalpanti is a simple toy programming language implemented in JavaScript.
 - **Conditional Statements:** Execute code based on conditions.
 - **Looping Constructs:** Implement iterative loops.
 
-## Live Demo
+## 🌐 Live Demo
 
 📌Try out Pagalpanti with our live demo: [Pagalpanti](https://pagalpantionhai.netlify.app/)
 
-## Getting Started
+## 🛠️ Getting Started
 
 ### Prerequisites
 
@@ -27,37 +31,55 @@ To run Pagalpanti programs, you need:
 
 ## Usage
 - Use the maan lo keyword to declare and initialize variables.
+  
 
-Syntax:
+**Syntax:**:
+```plaintext
 maan lo variable_name = value;
+```
 
-Example: maan lo a = 10;
+**Example**:
+```plaintext
+maan lo a = 10;
 maan lo b = 20;
 maan lo name = "John";
+```
 
-- Print Statement
+**Print Statement**
+
 Use the likho keyword to display output to the console.
 
-Syntax:
+**Syntax**:
 likho expression;
 
-Example : likho "Hello, world!";
+**Example :**
+```plaintext
+likho "Hello, world!";
 likho a + b;
+```
 
-- Arithmetic Operations
+**Arithmetic Operations**
+
 Perform basic arithmetic operations on variables.
 
-Supported operators:
+**Supported operators**:
 
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Example:
-
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+**Example:**
+```plaintext
 maan lo sum = a + b;
 maan lo product = a * b;
 likho sum;
 likho product;
+```
 
 
+---
+
+![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
+
+Happy Coding! 🎉
